@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Nutrition",
+        "description": "It is very important to be mindful of the food you eat.",
+        "iconImage": "fork-knife-plate",
+        "overview": "Nutrition is the process by which our bodies get the energy and nutrients necessary to function. A well-balanced diet provides the essential vitamins, minerals, and macronutrients that our bodies need to maintain good health and well-being. Different food groups—such as fruits, vegetables, grains, proteins, and fats—should be consumed in proper proportions to ensure a balanced intake.",
+        "goodHabits": " • Eat a Variety of Foods: Incorporate fruits, vegetables, whole grains, lean proteins, and healthy fats to ensure a wide range of nutrients.\n • Portion Control: Be mindful of portion sizes to avoid overeating. Focus on balanced portions rather than restricting entire food groups.\n • Eat Whole Foods: Opt for whole, minimally processed foods. Whole grains, fresh produce, and lean meats are more nutrient-dense than processed alternatives.\n • Plan Meals Ahead: Meal planning ensures you’re less likely to make unhealthy food choices when you’re busy or tired.\n • Stay Consistent: Try to maintain regular mealtimes to stabilize your metabolism and energy levels throughout the day.",
+        "badHabits": " • Skipping Meals: Skipping meals, especially breakfast, can lead to overeating later in the day and negatively affect energy levels.\n • Overconsumption of Processed Foods: Processed foods are often high in sodium, unhealthy fats, and sugars. Avoid relying on fast food, sugary snacks, and pre-packaged meals.\n • Too Many Sugary Beverages: Sugary drinks, including sodas and some juices, add empty calories without providing essential nutrients.\n • Overeating: Consuming too many calories, even from healthy foods, can lead to weight gain and health problems.",
+        "innerImage": "food"
+    },
+    {
+        "title": "Hydration",
+        "description": "Fun fact: you might not be drinking enough water!",
+        "iconImage": "water-bottle",
+        "overview": "Hydration is crucial for every bodily function. Water helps regulate body temperature, aids in digestion, delivers nutrients to cells, and flushes out waste. Even mild dehydration can impact your mental and physical performance, leading to fatigue, headaches, and difficulty concentrating.",
+        "goodHabits": " • Drink Water Regularly: Aim to drink about 8 glasses (64 oz) of water per day, or more depending on your activity level, weather conditions, and body needs.\n • Carry a Water Bottle: Keeping a reusable water bottle with you makes it easier to stay hydrated throughout the day.\n • Eat Water-Rich Foods: Incorporate foods that are high in water content, like cucumbers, watermelon, and oranges.\n • Drink Water Before Meals: Drinking a glass of water before meals can help with digestion and may prevent overeating.\n • Listen to Your Body: If you feel thirsty, it’s a sign that you’re already dehydrated. Keep an eye on your thirst cues.",
+        "badHabits": " • Relying on Sugary or Caffeinated Drinks: Sodas, sugary drinks, and excessive caffeine can dehydrate your body, so limit their intake.\n • Waiting Until You’re Thirsty: Thirst is a sign that dehydration has already started. Instead of waiting for thirst to hit, drink water consistently.\n • Ignoring Your Urine Color: Dark yellow or amber-colored urine can be a sign of dehydration. Aim for light yellow or clear urine as an indicator of good hydration.\n • Not Adjusting for Activity: After exercise or during hot weather, your body needs more water. Make sure to increase water intake in these situations.",
+        "innerImage": "drinking-water"
+    },
+    {
+        "title": "Sleep",
+        "description": "Are you sure you're getting enough sleep every night?",
+        "iconImage": "bed",
+        "overview": "Sleep is a vital part of our overall health, impacting everything from brain function to immune system performance. Adults generally need between 7-9 hours of quality sleep each night. Getting adequate sleep helps improve focus, mood, and energy, and allows the body to repair and regenerate cells.",
+        "goodHabits": " • Create a Sleep Routine: Going to bed and waking up at the same time every day helps regulate your body’s internal clock.\n • Wind Down Before Bed: Develop a pre-bedtime routine that signals your body it’s time to sleep. This could include reading, meditation, or listening to calming music.\n • Limit Screen Time: The blue light emitted by phones, tablets, and computers can interfere with your sleep. Try to avoid screens at least 30 minutes before bed.\n • Optimize Your Sleep Environment: Keep your room dark, quiet, and cool. Comfortable bedding and the right mattress can also improve sleep quality.\n • Get Natural Light During the Day: Exposure to natural light, especially in the morning, can help maintain a healthy sleep-wake cycle.",
+        "badHabits": " • Irregular Sleep Schedule: Going to bed at wildly different times each night disrupts your body’s internal clock, making it harder to fall asleep consistently.\n • Using Caffeine Late in the Day: Caffeine can stay in your system for up to 6 hours, so avoid it in the late afternoon or evening.\n • Napping Too Late: While short naps can be beneficial, taking naps too late in the afternoon can interfere with your ability to fall asleep at night.\n • Eating Heavy Meals Before Bed: Avoid large, heavy meals close to bedtime, as they can cause discomfort and indigestion, making it harder to fall asleep.\n • Staying in Bed When You Can’t Sleep: If you can’t fall asleep after 20 minutes, it’s better to get out of bed and do something relaxing rather than tossing and turning.",
+        "innerImage": "sleeping"
+    }
+]
